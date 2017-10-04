@@ -11,6 +11,9 @@ Las temáticas que nos gustaría escuchar son sobre resiliencia, automatización
 
 ## Código de conducta ⚠️
 
-Nuestra meetup ofrece una experiencia libre de abusos para todos, independientemente de su género, orientación sexual, discapacidad, apariencia física, talla, raza o religión. No toleramos abusos de los participantes de la meetup en ninguna de sus formas. El lenguaje e imágenes sexuales no son apropiados para ninguna sala de la meetup, incluyendo charlas, eventos, Twitter y otros medios online. Los participantes de la meetup o eventos relacionados que violen estas reglas pueden ser sancionados o expulsados de la misma a discreción de los organizadores.
+Nuestra meetup ofrece una experiencia libre de abusos para todos, independientemente de su género, orientación sexual, discapacidad, apariencia física, talla, raza o religión. No toleramos abusos de los participantes de la meetup en ninguna de sus formas. El lenguaje e imágenes sexuales no son apropiados en la meetup, incluyendo charlas, eventos, Twitter y otros medios online. Los participantes de la meetup o eventos relacionados que violen estas reglas pueden ser sancionados y/o expulsados de la misma a discreción de los organizadores.
 
-Si estás sufriendo algún abuso, adviertes abusos sobre otra persona, o tienes alguna otra preocupación, por favor contacta con algún miembro de la organización inmediatamente.
+Si estás sufriendo algún abuso, adviertes abusos sobre otra persona, o tienes alguna otra preocupación, por favor contacta con algún miembro de la organización inmediatamente:
+
+* Juan Rossi (@[juanrossi](https://github.com/juanrossi))
+* Jonathan La Banca (@[jonathanlabanca](https://github.com/jonathanlabanca))
